@@ -1,0 +1,8 @@
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\bin\Debug\LargeDataCollection.exe.config
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\bin\Debug\LargeDataCollection.exe
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\bin\Debug\LargeDataCollection.pdb
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\obj\Debug\LargeDataCollection.csproj.AssemblyReference.cache
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\obj\Debug\LargeDataCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\obj\Debug\LargeDataCollection.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\obj\Debug\LargeDataCollection.exe
+C:\Users\user\Documents\training\Day-1\LargeDataCollection\LargeDataCollection\obj\Debug\LargeDataCollection.pdb
